@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c7005ea-5087-4873-b07b-c0e91826920d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../demo/aprendeblockchain/Ethereum/Estructura y elementos de un contrato/MiPrimerContrato.sol" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/aprendeblockchain/Ethereum/README.MD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/aprendeblockchain/Ethereum/Tipos de datos/Agenda.sol" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/aprendeblockchain/Ethereum/Tipos de datos/Calculadora.sol" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/aprendeblockchain/Ethereum/Tokens ERC20/ERC20Token.sol" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/aprendeblockchain/Ethereum/Truffle/DappVotacion/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/aprendeblockchain/Ethereum/Truffle/DappVotacion/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/aprendeblockchain/Ethereum/Truffle/DappVotacion/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/aprendeblockchain/Ethereum/Truffle/DappVotacion/app/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/aprendeblockchain/Ethereum/Truffle/DappVotacion/app/javascripts/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/aprendeblockchain/Ethereum/Truffle/DappVotacion/app/stylesheets/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/aprendeblockchain/Ethereum/Truffle/DappVotacion/box-img-lg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/aprendeblockchain/Ethereum/Truffle/DappVotacion/box-img-sm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/aprendeblockchain/Ethereum/Truffle/DappVotacion/build/contracts/Migrations.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/aprendeblockchain/Ethereum/Truffle/DappVotacion/build/contracts/Votacion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/aprendeblockchain/Ethereum/Truffle/DappVotacion/contracts/Migrations.sol" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/aprendeblockchain/Ethereum/Truffle/DappVotacion/contracts/Votacion.sol" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/aprendeblockchain/Ethereum/Truffle/DappVotacion/interactuar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/aprendeblockchain/Ethereum/Truffle/DappVotacion/migrations/1_initial_migration.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/aprendeblockchain/Ethereum/Truffle/DappVotacion/migrations/2_deploy_contracts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/aprendeblockchain/Ethereum/Truffle/DappVotacion/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/aprendeblockchain/Ethereum/Truffle/DappVotacion/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/aprendeblockchain/Ethereum/Truffle/DappVotacion/test/TestVotacion.sol" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/aprendeblockchain/Ethereum/Truffle/DappVotacion/test/votacion.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/aprendeblockchain/Ethereum/Truffle/DappVotacion/truffle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/aprendeblockchain/Ethereum/Truffle/DappVotacion/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/aprendeblockchain/MiBlockchainEnJava/miblockchainenjava/miblockchainenjava/src/main/java/com/aprendeblockchain/miblockchainenjava/Configuracion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/aprendeblockchain/com/aprendeblockchain/miblockchainenjava/Configuracion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/aprendeblockchain/MiBlockchainEnJava/miblockchainenjava/miblockchainenjava/src/main/java/com/aprendeblockchain/miblockchainenjava/NodoMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/aprendeblockchain/com/aprendeblockchain/miblockchainenjava/NodoMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/aprendeblockchain/MiBlockchainEnJava/miblockchainenjava/miblockchainenjava/src/main/java/com/aprendeblockchain/miblockchainenjava/commons/estructuras/Bloque.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/aprendeblockchain/com/aprendeblockchain/miblockchainenjava/commons/estructuras/Bloque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/aprendeblockchain/MiBlockchainEnJava/miblockchainenjava/miblockchainenjava/src/main/java/com/aprendeblockchain/miblockchainenjava/commons/estructuras/RegistroSaldos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/aprendeblockchain/com/aprendeblockchain/miblockchainenjava/commons/estructuras/RegistroSaldos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/aprendeblockchain/MiBlockchainEnJava/miblockchainenjava/miblockchainenjava/src/main/java/com/aprendeblockchain/miblockchainenjava/commons/estructuras/Transaccion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/aprendeblockchain/com/aprendeblockchain/miblockchainenjava/commons/estructuras/Transaccion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/aprendeblockchain/MiBlockchainEnJava/miblockchainenjava/miblockchainenjava/src/main/java/com/aprendeblockchain/miblockchainenjava/commons/utilidades/UtilidadesFirma.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/aprendeblockchain/com/aprendeblockchain/miblockchainenjava/commons/utilidades/UtilidadesFirma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/aprendeblockchain/MiBlockchainEnJava/miblockchainenjava/miblockchainenjava/src/main/java/com/aprendeblockchain/miblockchainenjava/nodo/restcontrollers/RestControllerBloques.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/aprendeblockchain/com/aprendeblockchain/miblockchainenjava/nodo/restcontrollers/RestControllerBloques.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/aprendeblockchain/MiBlockchainEnJava/miblockchainenjava/miblockchainenjava/src/main/java/com/aprendeblockchain/miblockchainenjava/nodo/restcontrollers/RestControllerNodo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/aprendeblockchain/com/aprendeblockchain/miblockchainenjava/nodo/restcontrollers/RestControllerNodo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/aprendeblockchain/MiBlockchainEnJava/miblockchainenjava/miblockchainenjava/src/main/java/com/aprendeblockchain/miblockchainenjava/nodo/restcontrollers/RestControllerTransacciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/aprendeblockchain/com/aprendeblockchain/miblockchainenjava/nodo/restcontrollers/RestControllerTransacciones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/aprendeblockchain/MiBlockchainEnJava/miblockchainenjava/miblockchainenjava/src/main/java/com/aprendeblockchain/miblockchainenjava/nodo/services/ServiceMinado.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/aprendeblockchain/com/aprendeblockchain/miblockchainenjava/nodo/services/ServiceMinado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/aprendeblockchain/MiBlockchainEnJava/miblockchainenjava/miblockchainenjava/src/main/java/com/aprendeblockchain/miblockchainenjava/nodo/services/ServiceNodo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/aprendeblockchain/com/aprendeblockchain/miblockchainenjava/nodo/services/ServiceNodo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/aprendeblockchain/MiBlockchainEnJava/miblockchainenjava/miblockchainenjava/src/test/java/com/aprendeblockchain/miblockchainenjava/MiblockchainenjavaApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/aprendeblockchain/com/aprendeblockchain/miblockchainenjava/MiblockchainenjavaApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../demo/aprendeblockchain" />
+  </component>
+  <component name="ProjectId" id="1uegeWH9t96um91wSo6Cc1shO5d" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../demo" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="MiBlockchainEnJava.miblockchainenjava.miblockchainenjava.src.test.java.com.aprendeblockchain.miblockchainenjava" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.NodoMain">
+    <configuration name="NodoMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aprendeblockchain.miblockchainenjava.NodoMain" />
+      <module name="aprendeblockchain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aprendeblockchain.miblockchainenjava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mvnw (1)" type="ShConfigurationType" temporary="true">
+      <option name="SCRIPT_TEXT" value="" />
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/../demo/aprendeblockchain/MiBlockchainEnJava/miblockchainenjava/miblockchainenjava/mvnw" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$/../demo/aprendeblockchain/MiBlockchainEnJava/miblockchainenjava/miblockchainenjava" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="EXECUTE_IN_TERMINAL" value="true" />
+      <option name="EXECUTE_SCRIPT_FILE" value="true" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="mvnw" type="ShConfigurationType" temporary="true">
+      <option name="SCRIPT_TEXT" value="" />
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/MiBlockchainEnJava/miblockchainenjava/miblockchainenjava/mvnw" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$/MiBlockchainEnJava/miblockchainenjava/miblockchainenjava" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="EXECUTE_IN_TERMINAL" value="true" />
+      <option name="EXECUTE_SCRIPT_FILE" value="true" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="SwaggerCodegen">
+      <option name="activeConfigurationType" value="FILE" />
+      <option name="configurationPath" value="" />
+      <option name="customJreEnabled" value="false" />
+      <option name="customTemplatesPath" value="" />
+      <option name="enableDebugLogging" value="false" />
+      <option name="generateToPath" value="" />
+      <option name="generationParameters">
+        <list />
+      </option>
+      <option name="generatorPath" value="" />
+      <option name="jdkPath" value="Default" />
+      <option name="language" value="" />
+      <option name="specificationPath" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NodoMain" />
+        <item itemvalue="Shell Script.mvnw (1)" />
+        <item itemvalue="Shell Script.mvnw" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c7005ea-5087-4873-b07b-c0e91826920d" name="Default Changelist" comment="" />
+      <created>1625031563724</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625031563724</updated>
+      <workItem from="1625103692310" duration="1426000" />
+      <workItem from="1625630589514" duration="2083000" />
+      <workItem from="1625659663863" duration="3556000" />
+      <workItem from="1625803008135" duration="5168000" />
+      <workItem from="1625812293300" duration="540000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
