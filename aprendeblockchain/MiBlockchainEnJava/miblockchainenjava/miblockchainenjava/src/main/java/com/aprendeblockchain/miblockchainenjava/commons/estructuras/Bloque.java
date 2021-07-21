@@ -20,11 +20,10 @@ import com.google.common.primitives.Longs;
  * 	- Hash del bloque anterior (permite mantener la cadena enlazada)
  * 	- Altura del bloque
  * 	- Timestamp
- * 	- Dificultad prueba de trabajo (en nuestro caso es constante asi que no lo incluimos por ahora).
- * 	- Nonce
  * 	- Raiz arbol de merkle
  * El contenido del bloque está formado por la lista de transacciones incluidas en dicho bloque.
  * */
+
 public class Bloque {
 
 	// Hash del bloque e identificador único de este. Usado para enlazar bloques.

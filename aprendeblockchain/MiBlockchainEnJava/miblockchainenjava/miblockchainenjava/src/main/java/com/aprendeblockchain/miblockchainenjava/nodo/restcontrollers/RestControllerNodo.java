@@ -12,8 +12,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.aprendeblockchain.miblockchainenjava.Configuracion;
-import com.aprendeblockchain.miblockchainenjava.nodo.services.ServiceMinado;
 import com.aprendeblockchain.miblockchainenjava.nodo.services.ServiceNodo;
 
 

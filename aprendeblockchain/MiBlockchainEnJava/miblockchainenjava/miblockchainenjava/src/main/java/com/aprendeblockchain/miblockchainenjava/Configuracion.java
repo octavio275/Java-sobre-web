@@ -35,9 +35,6 @@ public final class Configuracion {
 		return configuracion.xmlConfiguracion.getInt("dificultad");
 	}
 
-	public boolean getMinar() {
-		return configuracion.xmlConfiguracion.getBoolean("minar");
-	}
 
 	public String getCoinbase() {
 		return configuracion.xmlConfiguracion.getString("coinbase");

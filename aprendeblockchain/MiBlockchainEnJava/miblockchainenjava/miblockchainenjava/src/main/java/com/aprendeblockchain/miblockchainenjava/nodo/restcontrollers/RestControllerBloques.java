@@ -5,7 +5,6 @@ import java.util.List;
 
 import javax.servlet.http.HttpServletResponse;
 
-import org.apache.commons.codec.binary.Base64;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -17,7 +16,6 @@ import com.aprendeblockchain.miblockchainenjava.Configuracion;
 import com.aprendeblockchain.miblockchainenjava.commons.estructuras.Bloque;
 import com.aprendeblockchain.miblockchainenjava.commons.estructuras.CadenaDeBloques;
 import com.aprendeblockchain.miblockchainenjava.nodo.services.ServiceBloques;
-import com.aprendeblockchain.miblockchainenjava.nodo.services.ServiceMinado;
 import com.aprendeblockchain.miblockchainenjava.nodo.services.ServiceNodo;
 
 @RestController
@@ -26,20 +24,16 @@ public class RestControllerBloques {
 
 	private final ServiceBloques servicioBloques;
 	private final ServiceNodo servicioNodo;
-	private final ServiceMinado servicioMinado;
 
 	private List<Bloque> bufferBloques = new ArrayList<Bloque>();
 	
 	@Autowired
-	public RestControllerBloques(ServiceBloques servicioCadenaDeBloques, ServiceNodo servicioNodo,
-			ServiceMinado servicioMinado) {
+	public RestControllerBloques(ServiceBloques servicioCadenaDeBloques, ServiceNodo servicioNodo
+			) {
 		this.servicioBloques = servicioCadenaDeBloques;
 		this.servicioNodo = servicioNodo;
-		this.servicioMinado = servicioMinado;
 
-		if (Configuracion.getInstancia().getMinar()) {
-			servicioMinado.startMinado();
-		}
+
 	}
 
 	/**
